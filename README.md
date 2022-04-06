@@ -1,4 +1,4 @@
-this is a respository containing a study done lung cancer factors in thailand.
+This is a respository containing a study done concerning lung cancer factors in Thailand.
 
 **Application name:**
 
